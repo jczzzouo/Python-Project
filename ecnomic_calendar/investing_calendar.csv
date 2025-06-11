@@ -1,0 +1,153 @@
+,Time,Country,Impact,Event,Actual,Forecast,Previous
+0,2025/04/01 20:55:00,United States,Low Volatility Expected,Redbook (YoY),4.8%,,5.6%
+1,2025/04/01 21:00:00,United States,Low Volatility Expected,FOMC Member Barkin Speaks,,,
+2,2025/04/01 21:45:00,United States,High Volatility Expected,S&P Global Manufacturing PMI  (Mar),50.2,49.8,52.7
+3,2025/04/01 22:00:00,United States,Moderate Volatility Expected,Construction Spending (MoM)  (Feb),0.7%,0.3%,-0.5%
+4,2025/04/01 22:00:00,United States,Moderate Volatility Expected,ISM Manufacturing Employment  (Mar),44.7,,47.6
+5,2025/04/01 22:00:00,United States,Low Volatility Expected,ISM Manufacturing New Orders Index  (Mar),45.2,,48.6
+6,2025/04/01 22:00:00,United States,High Volatility Expected,ISM Manufacturing PMI  (Mar),49.0,49.5,50.3
+7,2025/04/01 22:00:00,United States,High Volatility Expected,ISM Manufacturing Prices  (Mar),69.4,64.6,62.4
+8,2025/04/01 22:00:00,United States,High Volatility Expected,JOLTS Job Openings  (Feb),7.568M,7.690M,7.762M
+9,2025/04/01 22:30:00,United States,Low Volatility Expected,Dallas Fed Services Revenues  (Mar),1.3,,8.2
+10,2025/04/01 22:30:00,United States,Low Volatility Expected,IBD/TIPP Economic Optimism  (Apr),49.1,50.1,49.8
+11,2025/04/01 22:30:00,United States,Low Volatility Expected,Texas Services Sector Outlook  (Mar),-11.3,,4.6
+12,2025/04/02 01:00:00,United States,Moderate Volatility Expected,Atlanta Fed GDPNow  (Q1),-3.7%,-2.8%,-2.8%
+13,2025/04/02 04:30:00,United States,Moderate Volatility Expected,API Weekly Crude Oil Stock,6.037M,,-4.600M
+14,2025/04/02 19:00:00,United States,Low Volatility Expected,MBA 30-Year Mortgage Rate,6.70%,,6.71%
+15,2025/04/02 19:00:00,United States,Low Volatility Expected,MBA Mortgage Applications (WoW),-1.6%,,-2.0%
+16,2025/04/02 19:00:00,United States,Low Volatility Expected,MBA Purchase Index,158.2,,155.8
+17,2025/04/02 19:00:00,United States,Low Volatility Expected,Mortgage Market Index,243.6,,247.5
+18,2025/04/02 19:00:00,United States,Low Volatility Expected,Mortgage Refinance Index,710.4,,752.4
+19,2025/04/02 20:15:00,United States,High Volatility Expected,ADP Nonfarm Employment Change  (Mar),155K,118K,84K
+20,2025/04/02 21:00:00,United States,Low Volatility Expected,Total Vehicle Sales  (Mar),17.77M,15.90M,16.00M
+21,2025/04/02 21:30:00,United States,Low Volatility Expected,All Car Sales  (Mar),3.11M,,2.95M
+22,2025/04/02 21:30:00,United States,Low Volatility Expected,All Truck Sales  (Mar),14.65M,,13.06M
+23,2025/04/02 22:00:00,United States,Low Volatility Expected,Durables Excluding Defense (MoM)  (Feb),0.8%,0.8%,0.8%
+24,2025/04/02 22:00:00,United States,Low Volatility Expected,Durables Excluding Transport (MoM)  (Feb),0.7%,,0.7%
+25,2025/04/02 22:00:00,United States,Moderate Volatility Expected,Factory Orders (MoM)  (Feb),0.6%,0.5%,1.8%
+26,2025/04/02 22:00:00,United States,Low Volatility Expected,Factory orders ex transportation (MoM)  (Feb),0.4%,0.7%,0.3%
+27,2025/04/02 22:30:00,United States,High Volatility Expected,Crude Oil Inventories,6.165M,-0.200M,-3.341M
+28,2025/04/02 22:30:00,United States,Low Volatility Expected,EIA Refinery Crude Runs  (WoW),-0.192M,,0.087M
+29,2025/04/02 22:30:00,United States,Low Volatility Expected,Crude Oil Imports,0.999M,,0.845M
+30,2025/04/02 22:30:00,United States,Moderate Volatility Expected,Cushing Crude Oil Inventories,2.373M,,-0.755M
+31,2025/04/02 22:30:00,United States,Low Volatility Expected,Distillate Fuel Production,0.164M,,-0.100M
+32,2025/04/02 22:30:00,United States,Low Volatility Expected,EIA Weekly Distillates Stocks,0.264M,-1.100M,-0.421M
+33,2025/04/02 22:30:00,United States,Low Volatility Expected,Gasoline Production,0.062M,,-0.401M
+34,2025/04/02 22:30:00,United States,Low Volatility Expected,Heating Oil Stockpiles,0.209M,,-0.035M
+35,2025/04/02 22:30:00,United States,Low Volatility Expected,EIA Weekly Refinery Utilization Rates (WoW),-1.0%,,0.1%
+36,2025/04/02 22:30:00,United States,Low Volatility Expected,Gasoline Inventories,-1.551M,-1.900M,-1.446M
+37,2025/04/03 04:00:00,United States,High Volatility Expected,U.S. President Trump Speaks,,,
+38,2025/04/03 04:30:00,United States,Low Volatility Expected,FOMC Member Kugler Speaks,,,
+39,2025/04/03 18:00:00,United States,Moderate Volatility Expected,OPEC Meeting,,,
+40,2025/04/03 19:30:00,United States,Low Volatility Expected,Challenger Job Cuts  (Mar),275.240K,,172.017K
+41,2025/04/03 19:30:00,United States,Low Volatility Expected,Challenger Job Cuts (YoY),204.8%,,103.2%
+42,2025/04/03 20:30:00,United States,Moderate Volatility Expected,Continuing Jobless Claims,"1,903K","1,860K","1,847K"
+43,2025/04/03 20:30:00,United States,Moderate Volatility Expected,Exports  (Feb),278.50B,,269.80B
+44,2025/04/03 20:30:00,United States,Moderate Volatility Expected,Imports  (Feb),401.10B,,401.20B
+45,2025/04/03 20:30:00,United States,High Volatility Expected,Initial Jobless Claims,219K,225K,225K
+46,2025/04/03 20:30:00,United States,Low Volatility Expected,Jobless Claims 4-Week Avg.,223.00K,,224.25K
+47,2025/04/03 20:30:00,United States,Moderate Volatility Expected,Trade Balance  (Feb),-122.70B,-122.50B,-130.70B
+48,2025/04/03 21:45:00,United States,Moderate Volatility Expected,S&P Global Composite PMI  (Mar),53.5,53.5,51.6
+49,2025/04/03 21:45:00,United States,High Volatility Expected,S&P Global Services PMI  (Mar),54.4,54.3,51.0
+50,2025/04/03 22:00:00,United States,Low Volatility Expected,ISM Non-Manufacturing Business Activity  (Mar),55.9,,54.4
+51,2025/04/03 22:00:00,United States,Moderate Volatility Expected,ISM Non-Manufacturing Employment  (Mar),46.2,53.0,53.9
+52,2025/04/03 22:00:00,United States,Low Volatility Expected,ISM Non-Manufacturing New Orders  (Mar),50.4,51.9,52.2
+53,2025/04/03 22:00:00,United States,High Volatility Expected,ISM Non-Manufacturing PMI  (Mar),50.8,53.0,53.5
+54,2025/04/03 22:00:00,United States,High Volatility Expected,ISM Non-Manufacturing Prices  (Mar),60.9,63.1,62.6
+55,2025/04/03 22:30:00,United States,Low Volatility Expected,Natural Gas Storage,29B,27B,37B
+56,2025/04/03 23:30:00,United States,Low Volatility Expected,4-Week Bill Auction,4.240%,,4.220%
+57,2025/04/03 23:30:00,United States,Low Volatility Expected,8-Week Bill Auction,4.240%,,4.245%
+58,2025/04/04 00:30:00,United States,Moderate Volatility Expected,Atlanta Fed GDPNow  (Q1),-2.8%,-3.7%,-3.7%
+59,2025/04/04 00:30:00,United States,Low Volatility Expected,Fed Governor Jefferson Speaks,,,
+60,2025/04/04 02:30:00,United States,Low Volatility Expected,Fed Governor Cook Speaks,,,
+61,2025/04/04 04:30:00,United States,Moderate Volatility Expected,Fed's Balance Sheet,"6,723B",,"6,740B"
+62,2025/04/04 04:30:00,United States,Low Volatility Expected,Reserve Balances with Federal Reserve Banks,3.427T,,3.450T
+63,2025/04/04 20:30:00,United States,Moderate Volatility Expected,Average Hourly Earnings (YoY) (YoY)  (Mar),3.8%,3.9%,4.0%
+64,2025/04/04 20:30:00,United States,High Volatility Expected,Average Hourly Earnings (MoM)  (Mar),0.3%,0.3%,0.2%
+65,2025/04/04 20:30:00,United States,Low Volatility Expected,Average Weekly Hours  (Mar),34.2,34.2,34.2
+66,2025/04/04 20:30:00,United States,Low Volatility Expected,Government Payrolls  (Mar),19.0K,,1.0K
+67,2025/04/04 20:30:00,United States,Low Volatility Expected,Manufacturing Payrolls  (Mar),1K,4K,8K
+68,2025/04/04 20:30:00,United States,High Volatility Expected,Nonfarm Payrolls  (Mar),228K,137K,117K
+69,2025/04/04 20:30:00,United States,Moderate Volatility Expected,Participation Rate  (Mar),62.5%,,62.4%
+70,2025/04/04 20:30:00,United States,Moderate Volatility Expected,Private Nonfarm Payrolls  (Mar),209K,127K,116K
+71,2025/04/04 20:30:00,United States,Moderate Volatility Expected,U6 Unemployment Rate  (Mar),7.9%,,8.0%
+72,2025/04/04 20:30:00,United States,High Volatility Expected,Unemployment Rate  (Mar),4.2%,4.1%,4.1%
+73,2025/04/04 23:25:00,United States,High Volatility Expected,Fed Chair Powell Speaks,,,
+74,2025/04/05 00:00:00,United States,Moderate Volatility Expected,Fed Vice Chair for Supervision Barr Speaks,,,
+75,2025/04/05 00:45:00,United States,Moderate Volatility Expected,Fed Waller Speaks,,,
+76,2025/04/05 01:00:00,United States,Moderate Volatility Expected,U.S. Baker Hughes Oil Rig Count,489,483,484
+77,2025/04/05 01:00:00,United States,Moderate Volatility Expected,U.S. Baker Hughes Total Rig Count,590,,592
+78,2025/04/05 03:30:00,United States,Low Volatility Expected,CFTC Aluminium speculative net positions,1.3K,,1.9K
+79,2025/04/05 03:30:00,United States,Low Volatility Expected,CFTC Copper speculative net positions,30.0K,,25.2K
+80,2025/04/05 03:30:00,United States,Low Volatility Expected,CFTC Corn speculative net positions,166.9K,,200.4K
+81,2025/04/05 03:30:00,United States,Moderate Volatility Expected,CFTC Crude Oil speculative net positions,167.7K,,180.6K
+82,2025/04/05 03:30:00,United States,Moderate Volatility Expected,CFTC Gold speculative net positions,238.4K,,257.9K
+83,2025/04/05 03:30:00,United States,Moderate Volatility Expected,CFTC Nasdaq 100 speculative net positions,15.2K,,23.0K
+84,2025/04/05 03:30:00,United States,Low Volatility Expected,CFTC Natural Gas speculative net positions,-122.6K,,-131.9K
+85,2025/04/05 03:30:00,United States,Moderate Volatility Expected,CFTC S&P 500 speculative net positions,-19.0K,,68.3K
+86,2025/04/05 03:30:00,United States,Low Volatility Expected,CFTC Silver speculative net positions,57.3K,,62.3K
+87,2025/04/05 03:30:00,United States,Low Volatility Expected,CFTC Soybeans speculative net positions,-3.5K,,-14.4K
+88,2025/04/05 03:30:00,United States,Low Volatility Expected,CFTC Wheat speculative net positions,-102.8K,,-82.5K
+89,2025/04/07 22:00:00,United States,Low Volatility Expected,CB Employment Trends Index  (Mar),109.03,,108.47
+90,2025/04/07 22:30:00,United States,Low Volatility Expected,FOMC Member Kugler Speaks,,,
+91,2025/04/07 23:30:00,United States,Low Volatility Expected,3-Month Bill Auction,4.175%,,4.205%
+92,2025/04/07 23:30:00,United States,Low Volatility Expected,6-Month Bill Auction,4.000%,,4.070%
+93,2025/04/07 23:45:01,United States,Low Volatility Expected,OPEC Crude Oil Production Algeria (Barrel),0.91M,,0.91M
+94,2025/04/07 23:45:01,United States,Low Volatility Expected,OPEC Crude Oil Production Congo (Barrel),0.26M,,0.26M
+95,2025/04/07 23:45:01,United States,Low Volatility Expected,OPEC Crude Oil Production Gabon (Barrel),0.22M,,0.22M
+96,2025/04/07 23:45:01,United States,Low Volatility Expected,OPEC Crude Oil Production Guinea (Barrel),0.06M,,0.06M
+97,2025/04/07 23:45:01,United States,Low Volatility Expected,OPEC Crude oil Production Iran (Barrel),3.25M,,3.30M
+98,2025/04/07 23:45:01,United States,Low Volatility Expected,OPEC Crude oil Production Iraq (Barrel),3.99M,,3.98M
+99,2025/04/07 23:45:01,United States,Low Volatility Expected,OPEC Crude Oil Production Kuwait (Barrel),2.40M,,2.40M
+100,2025/04/07 23:45:01,United States,Low Volatility Expected,OPEC Crude Oil Production Libya (Barrel),1.29M,,1.28M
+101,2025/04/07 23:45:01,United States,Low Volatility Expected,OPEC Crude Oil Production Nigeria (Barrel),1.52M,,1.57M
+102,2025/04/07 23:45:01,United States,Low Volatility Expected,OPEC Crude oil Production Saudi Arabia (Barrel),8.96M,,8.93M
+103,2025/04/07 23:45:01,United States,Low Volatility Expected,OPEC Crude oil Production UAE (Barrel),2.91M,,2.92M
+104,2025/04/07 23:45:01,United States,Low Volatility Expected,OPEC Crude oil Production Venezuela (Barrel),0.86M,,0.91M
+105,2025/04/08 03:00:00,United States,Moderate Volatility Expected,Consumer Credit  (Feb),-0.81B,15.20B,8.90B
+106,2025/04/08 18:00:00,United States,Low Volatility Expected,NFIB Small Business Optimism  (Mar),97.4,98.9,100.7
+107,2025/04/08 20:55:00,United States,Low Volatility Expected,Redbook (YoY),7.2%,,4.8%
+108,2025/04/09 00:00:00,United States,Moderate Volatility Expected,EIA Short-Term Energy Outlook,,,
+109,2025/04/09 01:00:00,United States,Moderate Volatility Expected,3-Year Note Auction,3.784%,,3.908%
+110,2025/04/09 02:00:00,United States,Moderate Volatility Expected,FOMC Member Daly Speaks,,,
+111,2025/04/09 04:30:00,United States,Moderate Volatility Expected,API Weekly Crude Oil Stock,-1.057M,,6.037M
+112,2025/04/09 19:00:00,United States,Low Volatility Expected,MBA 30-Year Mortgage Rate,6.61%,,6.70%
+113,2025/04/09 19:00:00,United States,Low Volatility Expected,MBA Mortgage Applications (WoW),20.0%,,-1.6%
+114,2025/04/09 19:00:00,United States,Low Volatility Expected,MBA Purchase Index,172.7,,158.2
+115,2025/04/09 19:00:00,United States,Low Volatility Expected,Mortgage Market Index,292.3,,243.6
+116,2025/04/09 19:00:00,United States,Low Volatility Expected,Mortgage Refinance Index,961.4,,710.4
+117,2025/04/09 22:00:00,United States,Low Volatility Expected,Wholesale Inventories (MoM)  (Feb),0.3%,0.3%,0.8%
+118,2025/04/09 22:00:00,United States,Low Volatility Expected,Wholesale Trade Sales (MoM)  (Feb),2.4%,,-0.9%
+119,2025/04/09 22:30:00,United States,High Volatility Expected,Crude Oil Inventories,2.553M,2.200M,6.165M
+120,2025/04/09 22:30:00,United States,Low Volatility Expected,EIA Refinery Crude Runs  (WoW),0.069M,,-0.192M
+121,2025/04/09 22:30:00,United States,Low Volatility Expected,Crude Oil Imports,0.360M,,0.999M
+122,2025/04/09 22:30:00,United States,Moderate Volatility Expected,Cushing Crude Oil Inventories,0.681M,,2.373M
+123,2025/04/09 22:30:00,United States,Low Volatility Expected,Distillate Fuel Production,-0.019M,,0.164M
+124,2025/04/09 22:30:00,United States,Low Volatility Expected,EIA Weekly Distillates Stocks,-3.544M,0.200M,0.264M
+125,2025/04/09 22:30:00,United States,Low Volatility Expected,Gasoline Production,-0.338M,,0.062M
+126,2025/04/09 22:30:00,United States,Low Volatility Expected,Heating Oil Stockpiles,-0.020M,,0.209M
+127,2025/04/09 22:30:00,United States,Low Volatility Expected,EIA Weekly Refinery Utilization Rates (WoW),0.7%,,-1.0%
+128,2025/04/09 22:30:00,United States,Low Volatility Expected,Gasoline Inventories,-1.600M,-1.700M,-1.551M
+129,2025/04/09 23:00:00,United States,Low Volatility Expected,Thomson Reuters IPSOS PCSI  (Apr),52.80,,54.02
+130,2025/04/10 00:30:00,United States,Low Volatility Expected,FOMC Member Barkin Speaks,,,
+131,2025/04/10 01:00:00,United States,High Volatility Expected,10-Year Note Auction,4.435%,,4.310%
+132,2025/04/10 02:00:00,United States,High Volatility Expected,FOMC Meeting Minutes,,,
+133,2025/04/10 20:30:00,United States,Moderate Volatility Expected,Continuing Jobless Claims,"1,850K","1,880K","1,893K"
+134,2025/04/10 20:30:00,United States,High Volatility Expected,Core CPI (MoM)  (Mar),0.1%,0.3%,0.2%
+135,2025/04/10 20:30:00,United States,Moderate Volatility Expected,Core CPI (YoY)  (Mar),2.8%,3.0%,3.1%
+136,2025/04/10 20:30:00,United States,Low Volatility Expected,Core CPI Index  (Mar),325.66,,325.48
+137,2025/04/10 20:30:00,United States,High Volatility Expected,CPI (YoY)  (Mar),2.4%,2.5%,2.8%
+138,2025/04/10 20:30:00,United States,High Volatility Expected,CPI (MoM)  (Mar),-0.1%,0.1%,0.2%
+139,2025/04/10 20:30:00,United States,Low Volatility Expected,"CPI Index, n.s.a.  (Mar)",319.80,320.17,319.08
+140,2025/04/10 20:30:00,United States,Low Volatility Expected,"CPI Index, s.a  (Mar)",319.62,,319.78
+141,2025/04/10 20:30:00,United States,Low Volatility Expected,"CPI, n.s.a (MoM)  (Mar)",0.22%,,0.44%
+142,2025/04/10 20:30:00,United States,High Volatility Expected,Initial Jobless Claims,223K,223K,219K
+143,2025/04/10 20:30:00,United States,Low Volatility Expected,Jobless Claims 4-Week Avg.,223.00K,,223.00K
+144,2025/04/10 20:30:00,United States,Low Volatility Expected,Real Earnings (MoM)  (Mar),0.3%,,0.3%
+145,2025/04/10 21:30:00,United States,Low Volatility Expected,Fed Logan Speaks,,,
+146,2025/04/10 22:00:00,United States,Low Volatility Expected,Fed Schmid Speaks,,,
+147,2025/04/10 22:00:00,United States,Moderate Volatility Expected,FOMC Member Bowman Speaks,,,
+148,2025/04/10 22:30:00,United States,Low Volatility Expected,Natural Gas Storage,57B,60B,29B
+149,2025/04/10 23:00:00,United States,Low Volatility Expected,Cleveland CPI (MoM)  (Mar),0.3%,,0.3%
+150,2025/04/10 23:30:00,United States,Low Volatility Expected,4-Week Bill Auction,4.245%,,4.240%
+151,2025/04/10 23:30:00,United States,Low Volatility Expected,8-Week Bill Auction,4.235%,,4.240%
